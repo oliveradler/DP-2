@@ -1,0 +1,35 @@
+Shaping Circulation Realms 
+
+
+
+
+
+...in the application of communication patterns, you need to reshape the social network of the organization to move roles closer or further to the center, or closer or further from the customer, or to balance load, or to otherwise support some pattern of communication structure in the organization.
+
+✥ ✥ ✥
+
+One cannot just expect communications to happen spontaneously; moreso, one cannot expect any particular configuration of communication to arise in an arbitrary social environment.
+
+Proper communication structures between roles are key to organizational success.
+
+Communication can't be controlled from a single role; at least two roles must be involved. Communication patterns can't be dictated; some second-order force must be present to encourage them. Communication follows semantic coupling between responsibilities.
+
+Therefore:
+
+Create structures in the organization or in the work space that encourage the communication connections that support other patterns.
+
+Give people titles that creates a hierarchy or pecking order whose structure reflects the desired taxonomy. Give people job responsibilities that suggest the appropriate interactions between roles (see also MoveResponsibilities).
+
+Physically collocate people whom you wish to have close communication coupling (this is the dual of the pattern OrganizationFollowsLocation).
+
+Tell people what to do and with whom they should interact; people will usually try to respect your wishes if you ask them to do something reasonable that is within their purview and power.
+
+✥ ✥ ✥
+
+This pattern is a building block for other patterns in the language, including OrganizationFollowsMarket, DeveloperControlsProcess, DeCoupleStages, ArchitectAlsoImplements, EngageQualityAssurance, EngageCustomers, ResponsibilitiesEngage,  HallwayChatter,  SubsystemBySkill, and others. This pattern may also apply to circulation realms outside the project through patterns like FireWalls, and many others. The goal is to produce an organization with higher overall cohesion, with sub-parts that are as internally cohesive and externally decoupled as possible.
+
+This follows an Alexandrian pattern [Alexander 98] of the same name, and has strong analogies to the rationales of ``House Cluster'' [Alexander 37]. The same rationale can be found in [BibRef-Allen1977]. In fact, the organizational structure may be homomorphic with the structure of the buildings and rooms in which the organization lives and works, so Alexander's pattern of the same name may be a crucial driving force behind this ostensibly organizational concern.
+
+Note that MoveResponsibilities is a closely related pattern.
+
+See related notes in the Rationale for GateKeeper.

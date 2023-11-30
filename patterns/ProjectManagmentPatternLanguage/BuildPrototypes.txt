@@ -1,0 +1,38 @@
+Build Prototypes
+
+
+BuildPrototypes.jpg
+
+
+
+...you are trying to gather requirements necessary for test planning, as in the pattern ApplicationDesignIsBoundedByTestDesign, and for the architecture, as for the pattern ArchitectAlsoImplements. Some of these requirements come from the customer, but some are design decisions that come from the structure of the solution itself. For example, you may be building a user interface, some new technology such as database or network technology, or you are working on a new, critical algorithm, or don't understand your project domain.
+
+✥ ✥ ✥
+
+
+A project must test requirements and design decisions to reduce the risk of wasted cost and missed expectations.
+
+You need knowledge to proceed on development, and you must move forward; yet, requirements (or your understanding of them) are always changing. 
+
+You're missing information about the product (not the process), and you have a best guess you can use to move forward, and you want some way to evaluate the result of your best guess. 
+
+Written requirements that are gathered once at the beginning of a development cycle with the hope that they can drive development are usually too ambiguous. 
+
+You want to get requirements changes as early as possible, and you want requirements understanding to lead deployment by as far as possible. 
+
+Designers and implementors must understand requirements directly -- that the requirements have been captured in a document isn't enough. And for designers and developers to understand requirements implies that they must understand the implementation ramifications. 
+
+Therefore:
+
+Build an isolated prototype solution whose purposes are:
+
+to understand requirements, including latent needs,
+to validate requirements with customers as in EngageCustomers;
+to explore human/computer interactions for the system;
+to explore the cost and benefits of design decisions.
+
+The prototype is a small system that explores a small number of issues in isolation using best current knowledge. By examining that small system you can learn whether your current knowledge is correct and sufficient. Prototypes are particularly useful for external interfaces. 
+
+Throw the prototype away when you're done. This is more important than it may sound. Since the purpose of prototyping is to gain knowledge, prototypes can (and should) ignore details necessary in production software. Yet such details (such as scale, performance, robustness, etc.) cannot be incorporated into prototype-based software without the result resembling the proverbial bowl of pasta. 
+
+✥ ✥ ✥

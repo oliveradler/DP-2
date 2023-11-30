@@ -1,0 +1,86 @@
+,pattern1,pattern2,realtion
+0,Phasing It In,Size The Organization,0
+1,Size The Organization,Phasing It In,1
+2,Size The Organization,Solo Virtuoso,1
+3,Solo Virtuoso,Size The Organization,0
+4,Self-Selecting Team,Size The Organization,0
+5,Size The Organization,Self-Selecting Team,1
+6,Size The Organization,Few Roles,1
+7,Few Roles,Size The Organization,0
+8,Apprenticeship,Phasing It In,0
+9,Phasing It In,Apprenticeship,1
+10,Day Care,Phasing It In,0
+11,Phasing It In,Day Care,1
+12,Developing In Pairs,Solo Virtuoso,0
+13,Solo Virtuoso,Developing In Pairs,1
+14,EngageCustomers,Solo Virtuoso,0
+15,Solo Virtuoso,EngageCustomers,1
+16,Self-Selecting Team,Unity Of Purpose,1
+17,Unity Of Purpose,Self-Selecting Team,0
+18,Diverse Groups,Self-Selecting Team,0
+19,Self-Selecting Team,Diverse Groups,1
+20,Matron Role,Self-Selecting Team,0
+21,Self-Selecting Team,Matron Role,1
+22,Self-Selecting Team,Skunk Works,1
+23,Skunk Works,Self-Selecting Team,0
+24,Day Care,Apprenticeship,0
+25,Apprenticeship,Day Care,1
+26,Apprenticeship,Generics And Specifics,1
+27,Generics And Specifics,Apprenticeship,0
+28,Apprenticeship,Developing In Pairs,1
+29,Developing In Pairs,Apprenticeship,0
+30,EngageCustomers,Surrogate Customer,1
+31,Surrogate Customer,EngageCustomers,0
+32,EngageCustomers,Engage Quality Assurance,1
+33,Engage Quality Assurance,EngageCustomers,0
+34,EngageCustomers,Unity Of Purpose,1
+35,Unity Of Purpose,EngageCustomers,0
+36,Diverse Groups,Domain Expertise In Roles,1
+37,Domain Expertise In Roles,Diverse Groups,0
+38,Diverse Groups,Holistic Diversity,1
+39,Holistic Diversity,Diverse Groups,0
+40,Diverse Groups,Public Character,1
+41,Public Character,Diverse Groups,0
+42,Fire Walls,Skunk Works,0
+43,Skunk Works,Fire Walls,1
+44,Build Prototypes,Skunk Works,0
+45,Skunk Works,Build Prototypes,1
+46,Patron Role,Skunk Works,0
+47,Skunk Works,Patron Role,1
+48,Developing In Pairs,Group Validation,1
+49,Group Validation,Developing In Pairs,0
+50,Application Design Is Bounded By Test Design,Engage Quality Assurance,0
+51,Engage Quality Assurance,Application Design Is Bounded By Test Design,1
+52,Compensate Success,Unity Of Purpose,0
+53,Unity Of Purpose,Compensate Success,1
+54,Domain Expertise In Roles,Subsystem By Skill,1
+55,Subsystem By Skill,Domain Expertise In Roles,0
+56,Domain Expertise In Roles,Moderate Truck Number,1
+57,Moderate Truck Number,Domain Expertise In Roles,0
+58,Holistic Diversity,Moderate Truck Number,1
+59,Moderate Truck Number,Holistic Diversity,0
+60,Holistic Diversity,Legend Role,1
+61,Legend Role,Holistic Diversity,0
+62,Matron Role,Public Character,0
+63,Public Character,Matron Role,1
+64,Public Character,Wise Fool,1
+65,Wise Fool,Public Character,0
+66,Gate Keeper,Public Character,0
+67,Public Character,Gate Keeper,1
+68,Fire Walls,Gate Keeper,0
+69,Fire Walls,Gate Keeper,1
+70,Gate Keeper,Fire Walls,0
+71,Application Design Is Bounded By Test Design,Scenarios Define Problem,1
+72,Scenarios Define Problem,Application Design Is Bounded By Test Design,0
+73,Compensate Success,Failed Project Wake,1
+74,Failed Project Wake,Compensate Success,0
+75,Compensate Success,The Water Cooler,1
+76,The Water Cooler,Compensate Success,0
+77,Legend Role,Moderate Truck Number,1
+78,Moderate Truck Number,Legend Role,0
+79,Legend Role,Wise Fool,1
+80,Wise Fool,Legend Role,0
+81,Group Validation,Scenarios Define Problem,0
+82,Scenarios Define Problem,Group Validation,1
+83,Group Validation,Stand-Up Meeting,1
+84,Stand-Up Meeting,Group Validation,0

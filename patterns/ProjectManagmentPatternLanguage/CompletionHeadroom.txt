@@ -1,0 +1,29 @@
+Completion Headroom
+
+
+CompletionHeadroom.jpg
+Speaking of headroom...
+
+
+
+...work is progressing as the software unfolds and the team learns more about the system from the customer and from the behavior of the system itself. Things are far enough along to start thinking about delivery, and about delivering what can be delivered to the customer on the agreed delivery date. 
+
+✥ ✥ ✥
+
+Every project must commit to delivery on a few hard and fast dates.This is actually fortunate because it is about the only way to get out of work that is going poorly. It's also important because it's usually more important to deliver something on a specified date even than to deliver everything that was anticipated: when is often more important than what. A WorkSplit provides the graceful exit by allowing one to defer the portion of work that is not understood or going poorly while saving the part that does work or will save face. A WorkSplit does require some advance notice since some portion of the work must still be completed before deadline. 
+
+Therefore:
+
+Project work group completion dates from remaining effort estimates in the WorkQueueReport [BibRef-Cunningham1996]. Take the largest of the earliest completion dates for each work group and compare it to any hard delivery date that may apply. The difference is your CompletionHeadroom. 
+
+Any group has an obligation to make their efforts visible through what becomes the ultimate trouble signal, low CompletionHeadroom. Headroom disappears when developmental activities fail to match those of ComparableWork[BibRef-Cunningham1996]. 
+
+✥ ✥ ✥
+
+In order for CompletionHeadroom to work, it is vital to calculate it from the beginning, and recalculate it often, at least weekly. Watch for trends. Headroom will often jitter plus or minus a day or two from week to week. But steady evaporation of headroom for any WorkGroup is a sure indicator for management attention. You have at your disposal reordering the WorkQueue, possibly deferring whole items to later release, the WorkSplit already mentioned, or the public embarrassment of a RecommitmentMeeting. 
+
+A common problem is the well-meaning escalation of requirements by people too close to a problem. If you track CompletionHeadroom, you are better in a position to assess the impact of adding these requirements to the project. 
+
+See also TakeNoSmallSlips. 
+
+A version of this pattern first appeared in [BibRef-Cunningham1996].

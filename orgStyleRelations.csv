@@ -1,0 +1,89 @@
+,pattern1,pattern2,realtion
+0,Divide And Conquer,Few Roles,0
+1,Few Roles,Divide And Conquer,1
+2,De-Couple Stages,Divide And Conquer,0
+3,Divide And Conquer,De-Couple Stages,1
+4,Conway's Law,Divide And Conquer,0
+5,Divide And Conquer,Conway's Law,1
+6,Divide And Conquer,Organization Follows Location,1
+7,Organization Follows Location,Divide And Conquer,0
+8,Divide And Conquer,Organization Follows Market,1
+9,Organization Follows Market,Divide And Conquer,0
+10,Conway's Law,Standards Linking Locations,1
+11,Standards Linking Locations,Conway's Law,0
+12,Conway's Law,Loose Interfaces,1
+13,Loose Interfaces,Conway's Law,0
+14,Conway's Law,Deploy Along The Grain,1
+15,Deploy Along The Grain,Conway's Law,0
+16,Subsystem By Skill,Conway's Law,0
+17,Conway's Law,Subsystem By Skill,1
+18,Conway's Law,Organization Follows Location,1
+19,Organization Follows Location,Conway's Law,0
+20,Face To Face Before Working Remotely,Organization Follows Location,0
+21,Organization Follows Location,Face To Face Before Working Remotely,1
+22,Organization Follows Location,Organization Follows Market,1
+23,Organization Follows Market,Organization Follows Location,0
+24,Unity Of Purpose,Face To Face Before Working Remotely,0
+25,Face To Face Before Working Remotely,Unity Of Purpose,1
+26,Face To Face Before Working Remotely,LockEmUpTogether,1
+27,LockEmUpTogether,Face To Face Before Working Remotely,0
+28,Form Follows Function,Organization Follows Market,0
+29,Organization Follows Market,Form Follows Function,1
+30,Form Follows Function,Producer Roles,0
+31,Producer Roles,Form Follows Function,1
+32,Producer Roles,Shaping Circulation Realms ,1
+33,Shaping Circulation Realms ,Producer Roles,0
+34,Producer Roles,Stable Roles,1
+35,Stable Roles,Producer Roles,0
+36,Domain Expertise In Roles,Producer Roles,0
+37,Producer Roles,Domain Expertise In Roles,1
+38,Producers In The Middle,Producer Roles,0
+39,Producer Roles,Producers In The Middle,1
+40,Face To Face Before Working Remotely,Shaping Circulation Realms ,1
+41,Shaping Circulation Realms ,Face To Face Before Working Remotely,0
+42,Form Follows Function,Shaping Circulation Realms ,1
+43,Shaping Circulation Realms ,Form Follows Function,0
+44,Shaping Circulation Realms ,Stable Roles,0
+45,Stable Roles,Shaping Circulation Realms ,1
+46,Domain Expertise In Roles,Stable Roles,0
+47,Stable Roles,Domain Expertise In Roles,1
+48,De-Couple Stages,Shaping Circulation Realms ,0
+49,Shaping Circulation Realms ,De-Couple Stages,1
+50,Coupling Decreases Latency,Shaping Circulation Realms ,0
+51,Shaping Circulation Realms ,Coupling Decreases Latency,1
+52,Move Responsibilities,Shaping Circulation Realms ,0
+53,Shaping Circulation Realms ,Move Responsibilities,1
+54,Responsibilities Engage,Shaping Circulation Realms ,0
+55,Shaping Circulation Realms ,Responsibilities Engage,1
+56,Hallway Chatter,Shaping Circulation Realms ,0
+57,Shaping Circulation Realms ,Hallway Chatter,1
+58,Distribute Work Evenly,Shaping Circulation Realms ,0
+59,Shaping Circulation Realms ,Distribute Work Evenly,1
+60,Producers In The Middle,Shaping Circulation Realms ,0
+61,Shaping Circulation Realms ,Producers In The Middle,1
+62,De-Couple Stages,Hub Spoke And Rim,1
+63,Hub Spoke And Rim,De-Couple Stages,0
+64,Distribute Work Evenly,Producers In The Middle,0
+65,Producers In The Middle,Distribute Work Evenly,1
+66,Work Flows Inward,Producers In The Middle,0
+67,Producers In The Middle,Work Flows Inward,1
+68,Developer Controls Process,Producers In The Middle,0
+69,Producers In The Middle,Developer Controls Process,1
+70,Distribute Work Evenly,Responsibilities Engage,1
+71,Responsibilities Engage,Distribute Work Evenly,0
+72,Distribute Work Evenly,Three To Seven Helpers Per Role,1
+73,Three To Seven Helpers Per Role,Distribute Work Evenly,0
+74,Move Responsibilities,Responsibilities Engage,0
+75,Responsibilities Engage,Move Responsibilities,1
+76,Hallway Chatter,Responsibilities Engage,0
+77,Responsibilities Engage,Hallway Chatter,1
+78,Move Responsibilities,Upside-Down Matrix Management,1
+79,Upside-Down Matrix Management,Move Responsibilities,0
+80,Move Responsibilities,Three To Seven Helpers Per Role,1
+81,Three To Seven Helpers Per Role,Move Responsibilities,0
+82,The Water Cooler,Upside-Down Matrix Management,0
+83,Upside-Down Matrix Management,The Water Cooler,1
+84,Coupling Decreases Latency,Three To Seven Helpers Per Role,0
+85,Three To Seven Helpers Per Role,Coupling Decreases Latency,1
+86,Coupling Decreases Latency,Hub Spoke And Rim,1
+87,Hub Spoke And Rim,Coupling Decreases Latency,0

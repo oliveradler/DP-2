@@ -1,0 +1,89 @@
+,pattern1,pattern2,realtion
+0,Build Prototypes,Surrogate Customer,1
+1,Surrogate Customer,Build Prototypes,0
+2,Build Prototypes,Get On With It,0
+3,Get On With It,Build Prototypes,1
+4,Get On With It,Size The Schedule,0
+5,Size The Schedule,Get On With It,1
+6,Size The Schedule,Phasing It In,1
+7,Phasing It In,Size The Schedule,0
+8,Size The Schedule,Compensate Success,1
+9,Compensate Success,Size The Schedule,0
+10,Named Stable Bases,Size The Schedule,0
+11,Size The Schedule,Named Stable Bases,1
+12,Size The Schedule,Work Queue,1
+13,Work Queue,Size The Schedule,0
+14,Size The Schedule,Someone Always Makes Progress ,1
+15,Someone Always Makes Progress ,Size The Schedule,0
+16,Recommitment Meeting ,Size The Schedule,0
+17,Size The Schedule,Recommitment Meeting ,1
+18,Named Stable Bases,Take No Small Slips,1
+19,Take No Small Slips,Named Stable Bases,0
+20,Incremental Integration,Named Stable Bases,0
+21,Named Stable Bases,Incremental Integration,1
+22,Named Stable Bases,Private World,1
+23,Private World,Named Stable Bases,0
+24,Named Stable Bases,Programming Episode,1
+25,Programming Episode,Named Stable Bases,0
+26,Build Prototypes,Named Stable Bases,0
+27,Named Stable Bases,Build Prototypes,1
+28,Get On With It,Informal Labor Plan,1
+29,Informal Labor Plan,Get On With It,0
+30,Informal Labor Plan,Work Queue,0
+31,Work Queue,Informal Labor Plan,1
+32,Recommitment Meeting ,Take No Small Slips,0
+33,Take No Small Slips,Recommitment Meeting ,1
+34,Completion Headroom,Take No Small Slips,0
+35,Take No Small Slips,Completion Headroom,1
+36,Development Episode,Informal Labor Plan,0
+37,Informal Labor Plan,Development Episode,1
+38,Developer Controls Process,Informal Labor Plan,0
+39,Informal Labor Plan,Developer Controls Process,1
+40,Completion Headroom,Recommitment Meeting ,1
+41,Recommitment Meeting ,Completion Headroom,0
+42,Completion Headroom,Work Split,1
+43,Work Split,Completion Headroom,0
+44,Development Episode,Programming Episode,1
+45,Programming Episode,Development Episode,0
+46,Development Episode,Feature Assignment,1
+47,Feature Assignment,Development Episode,0
+48,Development Episode,Implied Requirements,1
+49,Implied Requirements,Development Episode,0
+50,Developer Controls Process,Programming Episode,1
+51,Programming Episode,Developer Controls Process,0
+52,Developer Controls Process,Developing In Pairs,1
+53,Developing In Pairs,Developer Controls Process,0
+54,Developer Controls Process,Fire Walls,1
+55,Fire Walls,Developer Controls Process,0
+56,Developer Controls Process,Work Flows Inward,1
+57,Work Flows Inward,Developer Controls Process,0
+58,Day Care,Someone Always Makes Progress ,0
+59,Someone Always Makes Progress ,Day Care,1
+60,Sacrifice One Person ,Someone Always Makes Progress ,0
+61,Someone Always Makes Progress ,Sacrifice One Person ,1
+62,Interrupts Unjam Blocking,Someone Always Makes Progress ,0
+63,Someone Always Makes Progress ,Interrupts Unjam Blocking,1
+64,Someone Always Makes Progress ,Team Per Task,1
+65,Team Per Task,Someone Always Makes Progress ,0
+66,Programming Episode,Team Per Task,1
+67,Team Per Task,Programming Episode,0
+68,Private World,Programming Episode,0
+69,Programming Episode,Private World,1
+70,Interrupts Unjam Blocking,Programming Episode,0
+71,Programming Episode,Interrupts Unjam Blocking,1
+72,Sacrifice One Person ,Team Per Task,0
+73,Team Per Task,Sacrifice One Person ,1
+74,Interrupts Unjam Blocking,Team Per Task,0
+75,Team Per Task,Interrupts Unjam Blocking,1
+76,Team Per Task,Developing In Pairs,1
+77,Developing In Pairs,Team Per Task,0
+78,Day Care,Sacrifice One Person ,0
+79,Sacrifice One Person ,Day Care,1
+80,Mercenary Analyst,Sacrifice One Person ,0
+81,Sacrifice One Person ,Mercenary Analyst,1
+82,Sacrifice One Person ,Fire Walls,1
+83,Fire Walls,Sacrifice One Person ,0
+84,Don't Interrupt An Interrupt,Interrupts Unjam Blocking,0
+85,Interrupts Unjam Blocking,Don't Interrupt An Interrupt,1
+86,Mercenary Analyst,Scenarios Define Problem,1
+87,Scenarios Define Problem,Mercenary Analyst,0

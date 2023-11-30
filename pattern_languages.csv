@@ -1,0 +1,93 @@
+,pattern_names,pattern_language
+0,Build Prototypes,ProjectManagmentPatternLanguage
+1,Community Of Trust,ProjectManagmentPatternLanguage
+2,Completion Headroom,ProjectManagmentPatternLanguage
+3,Day Care,ProjectManagmentPatternLanguage
+4,Developer Controls Process,ProjectManagmentPatternLanguage
+5,Development Episode,ProjectManagmentPatternLanguage
+6,Don't Interrupt An Interrupt,ProjectManagmentPatternLanguage
+7,Get On With It,ProjectManagmentPatternLanguage
+8,Implied Requirements,ProjectManagmentPatternLanguage
+9,Incremental Integration,ProjectManagmentPatternLanguage
+10,Informal Labor Plan,ProjectManagmentPatternLanguage
+11,Interrupts Unjam Blocking,ProjectManagmentPatternLanguage
+12,Mercenary Analyst,ProjectManagmentPatternLanguage
+13,Named Stable Bases,ProjectManagmentPatternLanguage
+14,Private World,ProjectManagmentPatternLanguage
+15,Programming Episode,ProjectManagmentPatternLanguage
+16,Recommitment Meeting ,ProjectManagmentPatternLanguage
+17,Sacrifice One Person ,ProjectManagmentPatternLanguage
+18,Size The Schedule,ProjectManagmentPatternLanguage
+19,Someone Always Makes Progress ,ProjectManagmentPatternLanguage
+20,Take No Small Slips,ProjectManagmentPatternLanguage
+21,Team Per Task,ProjectManagmentPatternLanguage
+22,Work Flows Inward,ProjectManagmentPatternLanguage
+23,Work Queue,ProjectManagmentPatternLanguage
+24,Work Split,ProjectManagmentPatternLanguage
+25,Application Design Is Bounded By Test Design,PiecemealGrowthPatternLanguage
+26,Apprenticeship,PiecemealGrowthPatternLanguage
+27,Compensate Success,PiecemealGrowthPatternLanguage
+28,Developing In Pairs,PiecemealGrowthPatternLanguage
+29,Diverse Groups,PiecemealGrowthPatternLanguage
+30,Domain Expertise In Roles,PiecemealGrowthPatternLanguage
+31,EngageCustomers,PiecemealGrowthPatternLanguage
+32,Engage Quality Assurance,PiecemealGrowthPatternLanguage
+33,Failed Project Wake,PiecemealGrowthPatternLanguage
+34,Fire Walls,PiecemealGrowthPatternLanguage
+35,Gate Keeper,PiecemealGrowthPatternLanguage
+36,Group Validation,PiecemealGrowthPatternLanguage
+37,Holistic Diversity,PiecemealGrowthPatternLanguage
+38,Legend Role,PiecemealGrowthPatternLanguage
+39,Matron Role,PiecemealGrowthPatternLanguage
+40,Moderate Truck Number,PiecemealGrowthPatternLanguage
+41,Patron Role,PiecemealGrowthPatternLanguage
+42,Phasing It In,PiecemealGrowthPatternLanguage
+43,Public Character,PiecemealGrowthPatternLanguage
+44,Scenarios Define Problem,PiecemealGrowthPatternLanguage
+45,Self-Selecting Team,PiecemealGrowthPatternLanguage
+46,Size The Organization,PiecemealGrowthPatternLanguage
+47,Skunk Works,PiecemealGrowthPatternLanguage
+48,Solo Virtuoso,PiecemealGrowthPatternLanguage
+49,Subsystem By Skill,PiecemealGrowthPatternLanguage
+50,Surrogate Customer,PiecemealGrowthPatternLanguage
+51,Team Pride,PiecemealGrowthPatternLanguage
+52,Unity Of Purpose,PiecemealGrowthPatternLanguage
+53,Wise Fool,PiecemealGrowthPatternLanguage
+54,Conway's Law,OrganizationalStyleLanguage
+55,Coupling Decreases Latency,OrganizationalStyleLanguage
+56,De-Couple Stages,OrganizationalStyleLanguage
+57,Distribute Work Evenly,OrganizationalStyleLanguage
+58,Divide And Conquer,OrganizationalStyleLanguage
+59,Face To Face Before Working Remotely,OrganizationalStyleLanguage
+60,Few Roles,OrganizationalStyleLanguage
+61,Form Follows Function,OrganizationalStyleLanguage
+62,Hallway Chatter,OrganizationalStyleLanguage
+63,Hub Spoke And Rim,OrganizationalStyleLanguage
+64,Move Responsibilities,OrganizationalStyleLanguage
+65,Organization Follows Location,OrganizationalStyleLanguage
+66,Organization Follows Market,OrganizationalStyleLanguage
+67,Producers In The Middle,OrganizationalStyleLanguage
+68,Producer Roles,OrganizationalStyleLanguage
+69,Responsibilities Engage,OrganizationalStyleLanguage
+70,Shaping Circulation Realms ,OrganizationalStyleLanguage
+71,Stable Roles,OrganizationalStyleLanguage
+72,The Water Cooler,OrganizationalStyleLanguage
+73,Three To Seven Helpers Per Role,OrganizationalStyleLanguage
+74,Upside-Down Matrix Management,OrganizationalStyleLanguage
+75,Architect Also Implements,PeopleAndCodePatternLanguage
+76,Architect Controls Product,PeopleAndCodePatternLanguage
+77,Architecture Team,PeopleAndCodePatternLanguage
+78,Code Ownership,PeopleAndCodePatternLanguage
+79,Deploy Along The Grain,PeopleAndCodePatternLanguage
+80,Feature Assignment,PeopleAndCodePatternLanguage
+81,Generics And Specifics,PeopleAndCodePatternLanguage
+82,HierarchyOfFactories,PeopleAndCodePatternLanguage
+83,LockEmUpTogether,PeopleAndCodePatternLanguage
+84,Loose Interfaces,PeopleAndCodePatternLanguage
+85,Parser Builder,PeopleAndCodePatternLanguage
+86,Private Versioning,PeopleAndCodePatternLanguage
+87,Smoke-Filled Room,PeopleAndCodePatternLanguage
+88,Standards Linking Locations,PeopleAndCodePatternLanguage
+89,Stand-Up Meeting,PeopleAndCodePatternLanguage
+90,Subclass Per Team,PeopleAndCodePatternLanguage
+91,Variation Behind Interface,PeopleAndCodePatternLanguage

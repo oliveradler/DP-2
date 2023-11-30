@@ -1,0 +1,59 @@
+,pattern1,pattern2,realtion
+0,Architect Controls Product,Architecture Team,1
+1,Architecture Team,Architect Controls Product,0
+2,Architect Controls Product,Deploy Along The Grain,1
+3,Deploy Along The Grain,Architect Controls Product,0
+4,Architect Controls Product,Stand-Up Meeting,1
+5,Stand-Up Meeting,Architect Controls Product,0
+6,Architect Also Implements,Architect Controls Product,0
+7,Architect Controls Product,Architect Also Implements,1
+8,Architecture Team,LockEmUpTogether,1
+9,LockEmUpTogether,Architecture Team,0
+10,Code Ownership,Deploy Along The Grain,0
+11,Deploy Along The Grain,Code Ownership,1
+12,Deploy Along The Grain,Feature Assignment,1
+13,Feature Assignment,Deploy Along The Grain,0
+14,Architect Also Implements,Deploy Along The Grain,0
+15,Deploy Along The Grain,Architect Also Implements,1
+16,Unity Of Purpose,LockEmUpTogether,0
+17,LockEmUpTogether,Unity Of Purpose,1
+18,LockEmUpTogether,Smoke-Filled Room,1
+19,Smoke-Filled Room,LockEmUpTogether,0
+20,Standards Linking Locations,Variation Behind Interface,1
+21,Variation Behind Interface,Standards Linking Locations,0
+22,Incremental Integration,Private World,1
+23,Private World,Incremental Integration,0
+24,Code Ownership,Variation Behind Interface,1
+25,Variation Behind Interface,Code Ownership,0
+26,Code Ownership,Stand-Up Meeting,1
+27,Stand-Up Meeting,Code Ownership,0
+28,Code Ownership,Subclass Per Team,1
+29,Subclass Per Team,Code Ownership,0
+30,Code Ownership,Private Versioning,1
+31,Private Versioning,Code Ownership,0
+32,Code Ownership,Feature Assignment,1
+33,Feature Assignment,Code Ownership,0
+34,Architect Also Implements,Feature Assignment,1
+35,Feature Assignment,Architect Also Implements,0
+36,Developing In Pairs,Architect Also Implements,0
+37,Architect Also Implements,Developing In Pairs,1
+38,Architect Also Implements,Generics And Specifics,1
+39,Generics And Specifics,Architect Also Implements,0
+40,Loose Interfaces,Parser Builder,1
+41,Parser Builder,Loose Interfaces,0
+42,HierarchyOfFactories,Loose Interfaces,0
+43,Loose Interfaces,HierarchyOfFactories,1
+44,HierarchyOfFactories,Variation Behind Interface,0
+45,Variation Behind Interface,HierarchyOfFactories,1
+46,Parser Builder,Variation Behind Interface,0
+47,Variation Behind Interface,Parser Builder,1
+48,Private World,Private Versioning,1
+49,Private Versioning,Private World,0
+50,HierarchyOfFactories,Subclass Per Team,0
+51,Subclass Per Team,HierarchyOfFactories,1
+52,Distribute Work Evenly,Feature Assignment,0
+53,Feature Assignment,Distribute Work Evenly,1
+54,Developing In Pairs,Feature Assignment,0
+55,Feature Assignment,Developing In Pairs,1
+56,HierarchyOfFactories,Parser Builder,1
+57,Parser Builder,HierarchyOfFactories,0

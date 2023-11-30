@@ -1,0 +1,22 @@
+Work Split
+
+WorkSplit.jpg
+
+
+... a WorkGroup commits to resolve and deliver ImpliedRequirements in the most timely and satisfactory way they can find. They are not committed to specific dates. 
+
+✥ ✥ ✥
+
+A work group has an obligation to make its efforts visible through what becomes the ultimate trouble signal, low CompletionHeadroom. Headroom disappears when developmental activities fail to match those of ComparableWork. A common problem is the well-meaning escalation of requirements by people too close to a problem. 
+
+Therefore:
+
+Divide a task into an urgent and deferred component such that no more than half of the developmental work is in the urgent half. Defer more if required to acquire sufficient CompletionHeadroom. Defer analysis and design of parts that won't be implemented. This advise runs counter to conventional wisdom. 
+
+✥ ✥ ✥
+
+Often a split is just a way to get back to the basic work that had been originally planned. TrustArchitecturalSubstitution? to cover for omissions and inconveniences caused by incomplete "up-front" work. Both halves of the split will appear in the WorkQueue with distinctly different urgency. 
+
+The split should be based on clear business priorities or should otherwise be rooted in agreed values. Ian Graham has written patterns that combine to form a small pattern language (drawn from a larger pattern language) to address this issue. See the patlets for EstablishTheBusinessObjectives, BusinessProcessModel, and GradualStiffening.
+
+A version of this pattern first appeared in [BibRef-Cunningham1996].
